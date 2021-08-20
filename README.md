@@ -3,7 +3,7 @@ Users get fast, undetectable, sleek ad-blocking capabilities to enjoy sites inte
 
 ## Installation Instructions
 **Google Chrome**
-1. Download this repo as a [ZIP file from GitHub]().
+1. Download this repo as a [ZIP file from GitHub](https://github.com/nexzanavod/StopAD.git).
 2. Unzip the file and you should have a folder named ``.
 3. In Chrome go to the extensions page (`chrome://extensions`).
 4. Enable Developer Mode.
